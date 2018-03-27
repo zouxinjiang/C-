@@ -1,0 +1,10 @@
+git init
+
+git add .
+
+git commit -m 'XXX'
+
+git remote add origin https://github.com/zouxinjiang/C-.git
+
+git push -u origin master
+
